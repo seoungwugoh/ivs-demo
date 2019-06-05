@@ -1,4 +1,6 @@
 # Fast User-Guided Video Object Segmentation by Interaction-and-Propagation Networks
+![screenshot](./screenshot.png)
+
 Demo code with GUI interface.  
 [paper](https://arxiv.org/abs/1904.09791)
 
