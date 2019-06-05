@@ -1,4 +1,7 @@
 # Fast User-Guided Video Object Segmentation by Interaction-and-Propagation Networks
+## Seoung Wug Oh, Joon-Young Lee, Ning Xu, Seon Joo Kim
+## CVPR 2019
+
 ![screenshot](./screenshot.png)
 
 Demo code with GUI interface.  
