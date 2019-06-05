@@ -23,6 +23,12 @@ conda install pytorch=0.3.1 cuda90 -c pytorch
 conda install torchvision
 ```
 
+#### Download weights
+```
+wget -O I_e290.pth "https://www.dropbox.com/s/khx9hmtnqbzg634/I_e290.pth?dl=1"
+wget -O P_e290.pth "https://www.dropbox.com/s/89heglbglig0g04/P_e290.pth?dl=1"
+```
+
 #### Run!
 ``` 
 python gui.py -seq camel 
