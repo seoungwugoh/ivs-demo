@@ -11,7 +11,7 @@ Demo code with GUI interface.
 - PyQt5
 
 ### How to Use
-###### Environment setup
+##### Environment setup
 ```
 conda create --name ivs python=3.6
 source activate ivs
@@ -23,18 +23,18 @@ conda install pytorch=0.3.1 cuda90 -c pytorch
 conda install torchvision
 ```
 
-###### Download weights
+##### Download weights
 ```
 wget -O I_e290.pth "https://www.dropbox.com/s/khx9hmtnqbzg634/I_e290.pth?dl=1"
 wget -O P_e290.pth "https://www.dropbox.com/s/89heglbglig0g04/P_e290.pth?dl=1"
 ```
 
-###### Run!
+##### Run!
 ``` 
 python gui.py -seq camel 
 ```
 
-###### Test your own videos
+##### Test your own videos
 Locate videos in ```./sequences/[name]```
 Run 
 ``` 
