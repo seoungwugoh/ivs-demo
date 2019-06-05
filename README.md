@@ -4,15 +4,36 @@ Demo code with GUI interface.
 
 
 ### Requirements
-1. python 3.6
-2. pytorch 0.3.1
-3. [davisinteractive](https://github.com/albertomontesg/davis-interactive)
-4. opencv 
-5. matplotlib
+- python 3.6
+- pytorch 0.3.1
+- [davisinteractive](https://github.com/albertomontesg/davis-interactive)
+- opencv 
+- matplotlib
+- PyQt5
 
 ### How to Use
+#### Environment setup
+```
+conda create --name ivs python=3.6
+source activate ivs
+
+pip install PyQt5 matplotlib opencv-contrib-python pillow Cython
+pip install davisinteractive
+
+conda install pytorch=0.3.1 cuda90 -c pytorch
+conda install torchvision
+```
+
+#### Run!
 ``` 
-python gui.py
+python gui.py -seq camel 
+```
+
+#### Test your own videos
+Locate videos in ```./sequences/[name]```
+Run 
+``` 
+python gui.py -seq [name]
 ```
 
 
