@@ -7,7 +7,6 @@ Demo code with GUI interface.
 - python 3.6
 - pytorch 0.3.1
 - [davisinteractive](https://github.com/albertomontesg/davis-interactive)
-- opencv 
 - matplotlib
 - PyQt5
 
@@ -42,5 +41,5 @@ If you find our paper and repo useful, please cite our paper. Thanks!
 ``` 
 Fast User-Guided Video Object Segmentation by Interaction-and-Propagation Networks
 Seoung Wug Oh, Joon-Young Lee, Ning Xu, Seon Joo Kim
-CVPR 2019.
+CVPR 2019
 ```
