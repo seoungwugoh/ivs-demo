@@ -54,3 +54,8 @@ Fast User-Guided Video Object Segmentation by Interaction-and-Propagation Networ
 Seoung Wug Oh, Joon-Young Lee, Ning Xu, Seon Joo Kim
 CVPR 2019
 ```
+
+### Terms of Use
+This software is for non-commercial use only.
+The source code is released under the Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) Licence
+(see [this](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) for details)
