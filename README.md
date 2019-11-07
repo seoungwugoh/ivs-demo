@@ -49,7 +49,7 @@ python gui.py -seq [name]
 
 
 ### Quantitative Evaluation
-The GUI application in this repository is only for demo.
+The GUI application in this repository is for demo and it is trained for scribbles from real users.
 The numbers in our paper will not be reproducable with the checkpoint included here.
 If you are interested in the quantitative evaluation using [DAVIS framework](https://interactive.davischallenge.org/),
 Please contact me by E-mail.
