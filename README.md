@@ -51,8 +51,8 @@ python gui.py -seq [name]
 ### Quantitative Evaluation
 The GUI application in this repository is for demo and it is trained for scribbles from real users.
 The numbers in our paper will not be reproducable with the checkpoint included here.
-If you are interested in the quantitative evaluation using [DAVIS framework](https://interactive.davischallenge.org/),
-Please contact me by E-mail.
+For the quantitative evaluation using [DAVIS framework](https://interactive.davischallenge.org/), evaluation summary is available [download link](https://www.dropbox.com/s/xx9eodst64xesr7/MRIP_v1414_ft1_e70_val.json?dl=1).
+For the further questions, please contact me by E-mail.
 
 
 
