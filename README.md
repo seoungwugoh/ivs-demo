@@ -51,7 +51,7 @@ python gui.py -seq [name]
 ### Quantitative Evaluation
 The GUI application in this repository is for demo and it is trained for scribbles from real users.
 The numbers in our paper will not be reproducable with the checkpoint included here.
-For the quantitative evaluation using [DAVIS framework](https://interactive.davischallenge.org/), evaluation summary is available [[download link]](https://www.dropbox.com/s/xx9eodst64xesr7/IPNet_summary_davis17_val.json?dl=1).
+For the quantitative evaluation using [DAVIS framework](https://interactive.davischallenge.org/), evaluation summary is available [[download link]](https://www.dropbox.com/s/xx9eodst64xesr7/IPNet_summary_davis17_val.json?dl=1). The timing is measured using a single 2080Ti GPU.
 For the further questions, please contact me by E-mail.
 
 
